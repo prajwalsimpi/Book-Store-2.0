@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(224,224,224);
+    color: black;
+    text-align: center;
+}
+.loginnn{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 7.5% 25%;
+}
+.loginnn img{
+    height: 7em;
+    padding: 5%;
+}
+.user-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
